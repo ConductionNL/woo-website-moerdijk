@@ -1,24 +1,43 @@
 [
   {
-    "title": "Contact",
+    "title": "Contactgegevens",
     "items": [
       {
-        "ariaLabel": "Phone number",
-        "value": "+31 (0)85 3036840",
-        "link": "tel:+31 (0)85 3036840",
-        "icon": { "prefix": "fas", "icon": "phone", "placement": "left" }
+        "ariaLabel": "Maak een afspraak",
+        "value": "Maak een afspraak",
+        "link": "https://www.moerdijk.nl/Afspraak",
+        "icon": { "prefix": "fas", "icon": "calendar-check", "placement": "left" }
       },
       {
-        "ariaLabel": "Email address",
-        "value": "info@conduction.nl",
-        "link": "mailto:info@conduction.nl",
-        "icon": { "prefix": "fas", "icon": "envelope", "placement": "left" }
-      },
-      {
-        "label": "Address",
-        "ariaLabel": "Address",
-        "value": "Lauriergracht 14h"
+        "ariaLabel": "Meer openingstijden en contactgegevens",
+        "value": "Meer openingstijden en contactgegevens",
+        "link": "https://www.moerdijk.nl/Contact.html",
+        "icon": { "prefix": "far", "icon": "file-lines", "placement": "left" }
       }
+    ]
+  },
+  {
+    "items": [
+      {
+        "ariaLabel": "Tips of opmerkingen over deze pagina?",
+        "value": "Tips of opmerkingen over deze pagina?",
+        "link": "https://www.moerdijk.nl/web/Tips_of_opmerkingen_over_deze_pagina.html",
+      },
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "link": "https://www.moerdijk.nl/toegankelijkheid",
+      },
+      {
+        "ariaLabel": "Proclaimer / Privacy",
+        "value": "Proclaimer / Privacy",
+        "link": "https://www.moerdijk.nl/Proclaimer-Privacy",
+      },
+      {
+        "ariaLabel": "Responsible disclosure",
+        "value": "Responsible disclosure",
+        "link": "https://www.moerdijk.nl/responsible-disclosure",
+      },
     ]
   }
 ]
