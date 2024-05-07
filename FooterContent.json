@@ -17,7 +17,6 @@
     ]
   },
   {
-    "title": "",
     "items": [
       {
         "ariaLabel": "Tips of opmerkingen over deze pagina?",
@@ -38,7 +37,7 @@
         "ariaLabel": "Responsible disclosure",
         "value": "Responsible disclosure",
         "link": "https://www.moerdijk.nl/responsible-disclosure",
-      },
+      }
     ]
   }
 ]
